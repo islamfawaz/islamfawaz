@@ -1,6 +1,5 @@
 <body>
-  <p align="center">
-  <img  src="https://github.com/Slama305/slama305/blob/main/2342ede6-c0ad-445c-80d5-f059c96d628e.gif" align="center" alt="GitHub Readme Stats" />
+  <p align="center"Hello....I am Islam Fawaz>
 
 	  
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
