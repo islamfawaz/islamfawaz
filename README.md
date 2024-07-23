@@ -7,7 +7,7 @@
 
 <br><br>	  
 - I am a Studient at [*Faculty of Computers & Informatics*](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [*Suez Canal University*](http://suez.edu.eg/ar/). 
-- 👨‍💻I am a competitive programmer at [*codeforces*](https://codeforces.com/profile/Slamaa)
+- 👨‍💻I am a competitive programmer at [*codeforces*](https://codeforces.com/profile/islamfawaz)
 - :student: I’m currently learning Computer Science and Software Engineering.
 - 📫 How to reach me **fawazislam70@gmail.com**
 <br><br><br><br>
@@ -20,12 +20,11 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
 	<br><br>
-	<a href="mailto:salmaabo341@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/slama305"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201020445156"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/mohamed-a-slama-012811258"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/mo.a.s.m.305"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://instagram.com/mo_3.0.5"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="fawazislam70@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/islamfawaz"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/0201272582461"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/islam-fawaz-395b1122b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100009577968000"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 
@@ -71,7 +70,7 @@
 
 ----
 	
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=slama305&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=islamfawaz&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
  
 </details>
 
@@ -79,7 +78,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slama305&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="slama305" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islamfawaz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="slama305" /></a> </p>
 
 	
 </details>
@@ -89,8 +88,8 @@
 ----
   <div>
   <p align="center">
-	<a href="https://github.com/Slama305/FrontEnd_SummerTrainig">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=FrontEnd_SummerTrainig&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/islamfawaz/FrontEnd_SummerTrainig">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=FrontEnd_SummerTrainig&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Slama305/slama305">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=slama305&theme=tokyonight" alt="GitHub Stats" />
