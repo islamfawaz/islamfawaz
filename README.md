@@ -1,5 +1,10 @@
 <body>
-Helo...I'm Islam Fawaz	  
+
+ <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" alt="Profile Picture" width="100">
+            <h1>Helo...I'm Islam Fawaz</h1>
+            <img src="https://www.freecoursesandbooks.net/wp-content/uploads/2022/03/18a4949fc9c8067172d3b96e302e7097.gif" alt="Decorative Image" width="100">
+
+	
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 <img align="right" src="https://www.freecoursesandbooks.net/wp-content/uploads/2022/03/18a4949fc9c8067172d3b96e302e7097.gif" width=30%>
