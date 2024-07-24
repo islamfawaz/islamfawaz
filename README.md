@@ -88,7 +88,7 @@
 ----
   <div>
   <p align="center">
-	<a href="https://github.com/islamfawaz/FrontEnd_SummerTrainig">
+	<a href="https://github.com/islamfawaz/Ecommerce-Standalone">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=FrontEnd_SummerTrainig&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Slama305/slama305">
