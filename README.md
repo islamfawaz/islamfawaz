@@ -89,7 +89,7 @@
   <div>
   <p align="center">
 	<a href="https://github.com/islamfawaz/Ecommerce-Standalone">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=FrontEnd_SummerTrainig&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=islamfawaz&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Slama305/slama305">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=slama305&theme=tokyonight" alt="GitHub Stats" />
