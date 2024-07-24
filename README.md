@@ -78,7 +78,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islamfawaz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="slama305" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islamfawaz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="islamfawaz" /></a> </p>
 
 	
 </details>
@@ -92,7 +92,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=Ecommerce&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/islamfawaz/CS-00P">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=CSOOP&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=Ecommerce&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	  <a href="https://github.com/islamfawaz/ITI-Avdanced-Frontend">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=ITI&theme=tokyonight" alt="GitHub Stats" />
@@ -109,8 +109,8 @@
       <a href="https://github.com/Slama305/Project_File_Processing">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=Project_File_Processing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-      <a href="https://github.com/Slama305/problem_solving_cpp">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=problem_solving_cpp&theme=tokyonight" alt="GitHub Stats" />
+      <a href="https://github.com/islamfawaz/ProblemSolving-CPP">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=problem_solving_cpp&theme=tokyonight" alt="GitHub Stats" />
     	</a>
       <a href="https://github.com/Slama305/file_processing_byPython">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=file_processing_byPython&theme=tokyonight" alt="GitHub Stats" />
