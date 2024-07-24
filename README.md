@@ -89,13 +89,13 @@
   <div>
   <p align="center">
 	<a href="https://github.com/islamfawaz/Ecommerce-Standalone">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=islamfawaz&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=Ecommerce&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Slama305/slama305">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=slama305&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/islamfawaz/CS-00P">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=C# 00P&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	  <a href="https://github.com/Slama305/Projects_Angular">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=Projects_FrontEnd&theme=tokyonight" alt="GitHub Stats" />
+	  <a href="https://github.com/islamfawaz/ITI-Avdanced-Frontend">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=ITI&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	  <a href="https://github.com/Slama305/my_templet">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=my_templet&theme=tokyonight" alt="GitHub Stats" />
@@ -118,8 +118,8 @@
        <a href="https://github.com/Slama305/presntetion_Bio_computer">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=presntetion_Bio_computer&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-       <a href="https://github.com/Slama305/data-structure">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=data-structure&theme=tokyonight" alt="GitHub Stats" />
+       <a href="https://github.com/islamfawaz/Data-Structure">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=data-structure&theme=tokyonight" alt="GitHub Stats" />
     	</a>
          <a href="https://github.com/Slama305/file_processing">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=file_processing&theme=tokyonight" alt="GitHub Stats" />
