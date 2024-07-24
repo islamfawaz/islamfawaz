@@ -92,7 +92,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=Ecommerce&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/islamfawaz/CS-00P">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=C#00P&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=CSOOP&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	  <a href="https://github.com/islamfawaz/ITI-Avdanced-Frontend">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=ITI&theme=tokyonight" alt="GitHub Stats" />
