@@ -91,39 +91,18 @@
 	<a href="https://github.com/islamfawaz/Ecommerce-Standalone">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=Ecommerce&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/islamfawaz/CS-00P">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=OOP&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/islamfawaz/Ecommerce-Standalone">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=Ecommerce&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	  <a href="https://github.com/islamfawaz/ITI-Avdanced-Frontend">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=ITI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	  <a href="https://github.com/Slama305/my_templet">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=my_templet&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	   <a href="https://github.com/Slama305/Linear_programing_problem">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=Linear_programing_problem&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-      <a href="https://github.com/Slama305/System_analysis">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=System_analysis&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-      <a href="https://github.com/Slama305/Project_File_Processing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=Project_File_Processing&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/islamfawaz/Ecommerce-Standalone">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=Ecommerce&theme=tokyonight" alt="GitHub Stats" />
     	</a>
       <a href="https://github.com/islamfawaz/ProblemSolving-CPP">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=problem_solving_cpp&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-      <a href="https://github.com/Slama305/file_processing_byPython">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=file_processing_byPython&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-       <a href="https://github.com/Slama305/presntetion_Bio_computer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=presntetion_Bio_computer&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-       <a href="https://github.com/islamfawaz/Data-Structure">
+        <a href="https://github.com/islamfawaz/Data-Structure">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=islamfawaz&repo=data-structure&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-         <a href="https://github.com/Slama305/file_processing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=file_processing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+      	</a>
   </p>
 </div>
 
