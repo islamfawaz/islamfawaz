@@ -48,7 +48,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=slama305&theme=tokyonight_duo" alt="slama305" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=islamfawaz&theme=tokyonight_duo" alt="islamfawaz" /></p>
 
 </details>
   
@@ -94,7 +94,7 @@
 	<a href="https://github.com/Slama305/slama305">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=slama305&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	  <a href="https://github.com/Slama305/Projects_FrontEnd">
+	  <a href="https://github.com/Slama305/Projects_Angular">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=slama305&repo=Projects_FrontEnd&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	  <a href="https://github.com/Slama305/my_templet">
